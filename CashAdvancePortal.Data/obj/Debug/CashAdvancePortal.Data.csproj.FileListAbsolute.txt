@@ -1,0 +1,6 @@
+C:\CyberTestSolution\CashAdvancePortal\CashAdvancePortal.Data\bin\Debug\CashAdvancePortal.Data.dll
+C:\CyberTestSolution\CashAdvancePortal\CashAdvancePortal.Data\bin\Debug\CashAdvancePortal.Data.pdb
+C:\CyberTestSolution\CashAdvancePortal\CashAdvancePortal.Data\obj\Debug\CashAdvancePortal.Data.csproj.AssemblyReference.cache
+C:\CyberTestSolution\CashAdvancePortal\CashAdvancePortal.Data\obj\Debug\CashAdvancePortal.Data.csproj.CoreCompileInputs.cache
+C:\CyberTestSolution\CashAdvancePortal\CashAdvancePortal.Data\obj\Debug\CashAdvancePortal.Data.dll
+C:\CyberTestSolution\CashAdvancePortal\CashAdvancePortal.Data\obj\Debug\CashAdvancePortal.Data.pdb
